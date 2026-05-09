@@ -1,0 +1,10 @@
+{
+  "name": "Telephonic IT Assets Manager",
+  "description": "Unified dashboard for managing company servers, network infrastructure, and IT credentials.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
